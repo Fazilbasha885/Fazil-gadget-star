@@ -1,0 +1,42 @@
+.one{
+    background-color: black;
+    color: gold;
+    text-align: center;
+    padding: 10px;
+}
+
+.two{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    margin-right: 30px;
+    margin-left: 50px;
+    padding-top: 20px;
+    margin-top: 30px;
+}
+
+.span{
+    text-align: center;
+}
+
+.forms{
+    text-align: center;
+    border-color: blanchedalmond;
+    border-width: 2px;
+    border-style: solid;
+    background-color: black;
+    color: aliceblue;
+     
+    
+}
+
+.center{
+    text-align: center;
+}
+
+
+
+
+
+
